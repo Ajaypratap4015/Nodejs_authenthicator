@@ -25,3 +25,13 @@ Open the application in your web browser by visiting the following URL:
 ```
 $ http://localhost:3000 
 ```
+
+Screenshot
+## HomePage
+![Screenshot (130)](https://github.com/gamerspirit/Nodejs_authenthicator/assets/68500595/4a08eb99-eced-4843-a16d-944bc696595e)
+
+## LoginPage
+![Screenshot (131)](https://github.com/gamerspirit/Nodejs_authenthicator/assets/68500595/7aec2b33-6a91-47bd-98b8-8912f34f613e)
+
+## RegisterPage
+![Screenshot (132)](https://github.com/gamerspirit/Nodejs_authenthicator/assets/68500595/19e30de4-f7db-4173-a9c3-fc05b5e497a1)
