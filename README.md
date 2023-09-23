@@ -3,7 +3,7 @@
 A web application which help you to authenthicate the email in website or app by sending mail and 
 after verified it.
 You can check it from here--
-https://habit-tracker-ajayprata.onrender.com
+https://nodejs-authenticator-9ru9.onrender.com
 
 
 ## Installation
